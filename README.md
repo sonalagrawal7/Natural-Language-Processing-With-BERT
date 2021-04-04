@@ -1,4 +1,4 @@
-# NaturalLanguageProcessingWithBERT
+# Natural Language Processing With BERT
 Movies reviews Semantic analysis using BERT - Udemy course
 
 
